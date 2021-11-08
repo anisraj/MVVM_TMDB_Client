@@ -3,6 +3,8 @@
 Architecture Used
 MVVM with Clean architecture
 
+Other Features are
+
 UseCases
 
 Dagger
