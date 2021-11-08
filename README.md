@@ -5,6 +5,8 @@ MVVM with Clean architecture
 
 Other Features are
 
+Kotlin
+
 UseCases
 
 Dagger
